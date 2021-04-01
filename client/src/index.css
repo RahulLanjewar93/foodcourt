@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.card-panel {
+  height: 120px;
+}
+
+.col.s12 > .orderPlaceButton {
+  width:20%;
+  margin: 40px;
+}
+
+.MuiCircularProgress-colorPrimary{
+  color: #2196F3 !important;
+}
+
+.MuiCircularProgress-root{
+  margin-left: 15px;
+  height: 25px!important;
+  width:25px!important;
+}
+
+span.card-title{
+  font-size: 20px!important;
+  font-weight: 300!important;
+}
